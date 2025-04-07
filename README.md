@@ -41,4 +41,4 @@ Dataset from Kaggle: [No-show appointments](https://www.kaggle.com/datasets/joni
 
 ---
 
-🧠 Maintained by: *Your Name Here*
+🧠 Maintained by: *Abhijeet Kuanr*
